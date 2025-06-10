@@ -151,7 +151,7 @@ This project is open source and available under the MIT License.
 - LangChain team for the excellent framework
 - Gradio team for the UI framework
 - Open source community for the various tools and libraries
-- Excellent Agents Course for Huggingface
+- Excellent [Agents Course](https://huggingface.co/agents-course) for Huggingface
 ---
 
 **Happy coding! 🚀**
