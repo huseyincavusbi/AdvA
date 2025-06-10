@@ -15,6 +15,9 @@ A sophisticated AI research assistant built with LangGraph and Gemini 2.0 that p
 
 ## 🚀 Installation & Setup
 
+You can try this Hugging Face Space directly here: https://huggingface.co/spaces/huseyincavus/AdvA
+Or, if you prefer to set it up locally, follow these steps:
+
 ### 1. Environment Setup
 
 ```bash
