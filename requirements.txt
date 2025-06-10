@@ -1,0 +1,40 @@
+# Advanced Research Agent - Python Dependencies
+# ==============================================
+
+# Core Framework - LangGraph & LangChain
+langgraph>=0.4.8
+langchain>=0.3.25
+langchain-core>=0.3.64
+langchain-google-genai>=2.1.5
+langsmith>=0.3.45
+
+# User Interface
+gradio>=5.33.1
+
+# Mathematical & Scientific Computing
+sympy>=1.14.0
+numpy>=2.3.0
+pandas>=2.3.0
+matplotlib>=3.10.3
+plotly>=6.1.2
+
+# Research & Search APIs
+arxiv>=2.2.0
+tavily-python>=0.7.5
+
+# Web Scraping & Processing
+requests>=2.32.4
+beautifulsoup4>=4.13.4
+tldextract>=5.3.0
+lxml>=5.4.0
+
+# Configuration & Environment
+python-dotenv>=1.1.0
+
+# Data Processing & Analysis
+pydantic>=2.11.5
+PyYAML>=6.0.2
+
+# Google AI Integration
+google-ai-generativelanguage>=0.6.18
+google-api-core>=2.25.0
