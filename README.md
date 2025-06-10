@@ -15,7 +15,7 @@ A sophisticated AI research assistant built with LangGraph and Gemini 2.0 that p
 
 ## 🚀 Installation & Setup
 
-You can try AdvA directly via HuggingFace Space here: https://huggingface.co/spaces/huseyincavus/AdvA
+You can try AdvA directly via Hugging Face Space here: https://huggingface.co/spaces/huseyincavus/AdvA
 Or, if you prefer to set it up locally, follow these steps:
 
 ### 1. Environment Setup
@@ -151,7 +151,7 @@ This project is open source and available under the MIT License.
 - LangChain team for the excellent framework
 - Gradio team for the UI framework
 - Open source community for the various tools and libraries
-- Excellent [Agents Course](https://huggingface.co/agents-course) for Huggingface
+- Excellent [Agents Course](https://huggingface.co/agents-course) for Hugging Face
 ---
 
 **Happy coding! 🚀**
